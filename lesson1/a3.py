@@ -11,7 +11,7 @@ def multiply(P,Q):
     result = P*Q
     return result
 # 4) Define a function `divide(P, Q)` that returns the division result of two numbers (P / Q).
-def divide(P,Q):
+def divide(P,Q):x
     result = P/Q
     return result
 # 5) Display a menu to the user showing the available operations:
